@@ -1,2 +1,2 @@
-# my_SQL_portfolio
+# SQL_projects
 A collection of my SQL projects
